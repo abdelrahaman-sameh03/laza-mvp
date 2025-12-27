@@ -1,0 +1,41 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "laza-mvp",
+          "appId": "1:237240522440:android:f086d64b3cb072511337fd",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "laza-mvp",
+          "configurations": {
+            "android": "1:237240522440:android:f086d64b3cb072511337fd",
+            "ios": "1:237240522440:ios:5d8f661f80962f241337fd",
+            "macos": "1:237240522440:ios:5d8f661f80962f241337fd",
+            "web": "1:237240522440:web:d06daffcf1da32d41337fd",
+            "windows": "1:237240522440:web:7d2b36e8a76b93911337fd"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ],
+      "predeploy": [
+        "npm --prefix \"$RESOURCE_DIR\" run lint"
+      ]
+    }
+  ]
+}
