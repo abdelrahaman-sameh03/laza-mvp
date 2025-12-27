@@ -147,7 +147,7 @@ Test outputs (logs + screenshots + summary) are stored in:
 - `/appium_tests` Appium scripts + test_cases.md  
 - `/docs/results` Appium logs + screenshots + test summary  
 - `/screenshots` App screenshots (manual)  
-- `/builds/apk` Build artifacts (APK)  
+- `/builds/apk` Build artifacts (APK) >> in Drive  
 - `/video` Screen recording (MP4)  
 
 ---
