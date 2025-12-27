@@ -149,5 +149,5 @@ Test outputs (logs + screenshots + summary) are stored in:
 
 ---
 
-## Link for Video:
-https://drive.google.com/drive/folders/10I7Jl3aGRKRvUtQq9dUkZ0rz3q-CsiIG?usp=sharing
+## Link for Video & apk:
+https://drive.google.com/drive/folders/10I7Jl3aGRKRvUtQq9dUkZ0rz3q-CsiIG?usp=drive_link
