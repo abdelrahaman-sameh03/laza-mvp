@@ -1,5 +1,8 @@
 # Laza MVP (Flutter + Firebase)
 
+## Link for Video & apk:
+https://drive.google.com/drive/folders/10I7Jl3aGRKRvUtQq9dUkZ0rz3q-CsiIG?usp=drive_link
+
 ## Project Overview
 This repository contains a Flutter mobile application that demonstrates a basic e-commerce flow:
 - User authentication (Signup/Login)
@@ -149,5 +152,4 @@ Test outputs (logs + screenshots + summary) are stored in:
 
 ---
 
-## Link for Video & apk:
-https://drive.google.com/drive/folders/10I7Jl3aGRKRvUtQq9dUkZ0rz3q-CsiIG?usp=drive_link
+
